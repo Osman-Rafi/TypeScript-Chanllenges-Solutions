@@ -12,4 +12,3 @@ const todo: TodoPreview = {
   title: "Doing some TS",
   description: "solving TS challenges",
 };
-const aaa = 10;
